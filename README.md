@@ -1,5 +1,5 @@
-# Personal VPN
-## Shadowsocks+V2Ray-plugin
+# this is lidia private space
+## lidia private space
 
 Click the button below to deploy, and remember to order a Star if it works:
 
